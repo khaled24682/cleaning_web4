@@ -1,0 +1,307 @@
+{
+"en": {
+  "brand_name": "Nano Shark",
+
+  "nav_home": "Home",
+  "nav_about": "About Us",
+
+  "hero_title": "We protect your furniture with nano technology…",
+  "hero_subtitle": "So it stays clean, safe, and looking brand new for years.",
+  "hero_desc": "Smart, long-lasting protection without changing the look or texture.",
+
+
+  
+    "numbers_title" : "Our Numbers",
+    
+  
+
+  "clients_label":"Happy Clients",
+    
+  
+  "countries_label": "Countries We Serve",
+    
+
+  "furniture_label": "Successfully Protected Furniture Pieces",
+    
+  
+  "experience_label": "Years of Experience in Nano Coating",
+   
+
+  "satisfaction_label":"Customer Satisfaction Rate",
+    
+  "services_title": "Nano Shark Services",
+  "services_intro": "Protection of sofas, chairs, and mattresses against liquids and stains.",
+
+  "service1_title": "Deep Cleaning & Professional Drying",
+  "service1_desc": "✔ Protection of carpets and curtains with advanced nano coating technology✔ Preserves fabric color and quality without altering color or texture ✔ Invisible, organic protection that is 100% safe for children and pets.",
+
+  "service2_title": "Deep Cleaning and Sanitization",
+  "service2_desc": "✔ Deep cleaning of sofas, chairs, mattresses, carpets, and curtains✔ Removal of tough stains and unpleasant odors✔ Complete sanitization using safe and approved products✔ Fast drying with no remaining moisture",
+
+  "service3_title": "Marble and Wood Sealing & Protection",
+  "service3_desc": "✔ Sealing marble surfaces against stains and damage✔ Protection for wooden floors and surfaces✔ Long-lasting shine✔ High resistance to water and dirt",
+
+  "service4_title": "We serve all across the UAE.",
+  "service4_desc": "✔ Dubai✔ Abu Dhabi✔ Sharjah✔ Ajman✔ Al Ain✔ Fujairah",
+
+
+  "whatsapp_text": "Enquire Now",
+ "faq_title": "Frequently Asked Questions",
+
+  "faq_q1": "What is Nano Coating?",
+  "faq_a1": "Nano coating is an invisible protective layer applied to fabrics and surfaces, forming a shield that prevents liquid, stain, and dust absorption, making cleaning much easier.",
+
+  "faq_q2": "Does nano coating change the color or texture of furniture?",
+  "faq_a2": "No. The layer is 100% transparent and does not affect color, softness, or overall appearance.",
+
+  "faq_q3": "How long does the protection last?",
+  "faq_a3": "Nano protection lasts up to 3 years or more, depending on usage and environment.",
+
+  "faq_q4": "Is nano coating safe for children and pets?",
+  "faq_a4": "Yes. The materials used are organic, safe, and free from harmful substances.",
+
+  "faq_q5": "What’s the difference between regular cleaning and nano coating?",
+  "faq_a5": "Regular cleaning removes existing dirt only, while nano coating prevents stains and dirt from forming in the first place.",
+
+  "faq_q6": "Can nano coating be applied to all types of furniture?",
+  "faq_a6": "Yes, it is suitable for sofas, carpets, mattresses, curtains, chairs, car seats, and all fabric and leather surfaces.",
+
+  "faq_q7": "Does it completely prevent stains?",
+  "faq_a7": "It significantly reduces liquid and stain absorption and makes spills much easier to remove.",
+
+  "faq_q8": "Does the service take a long time?",
+  "faq_a8": "No. The process is fast and depends on item size. Furniture can often be used the same day or shortly after.",
+
+  "faq_q9": "Are there any strong odors after application?",
+  "faq_a9": "No. There are no strong odors, and the material is eco-friendly with no unpleasant residue.",
+
+  "faq_q10": "Is the service suitable for homes and businesses?",
+  "faq_a10": "Yes. We serve homes, offices, hotels, cafés, and restaurants.",
+
+  "faq_q11": "What is the warranty period?",
+  "faq_a11": "We provide a quality warranty for 1.5 years, with nano protection lasting up to 3 years or more.",
+
+  "footer_contact": "Contact us today and enjoy long-lasting protection"
+,
+    "about_title": "About Us",
+  "about_intro": "At Nano Shark, we believe furniture is not just something you use every day — it is an investment in comfort, beauty, and lifestyle. From this belief, Nano Shark was founded to become one of the leading Nano Coating companies in the Gulf region, providing professional solutions to protect furniture and properties using the latest globally certified German nano technologies.",
+
+  "vision_title": "Our Vision",
+  "vision_text": "To be the first choice in the Gulf region for smart and safe furniture protection, and to transform furniture care from temporary cleaning into long-term protection.",
+
+  "mission_title": "Our Mission",
+  "mission_text": "We provide advanced nano solutions that keep furniture clean, protected, and long-lasting, without affecting color or texture, using materials that are safe for children, families, and pets.",
+
+  "why_title": "Why Nano Shark?",
+  "why_list": [
+    "High-quality German Nano Coating technologies",
+    "100% invisible protective layers",
+    "Preserves original color, softness, and appearance",
+    "Protection lasting up to 3 years or more",
+    "Eco-friendly and safe materials",
+    "Quality guarantee and follow-up visits"
+  ],
+
+  "services_title2": "What We Offer",
+  "services_list": [
+    "Deep cleaning and professional drying",
+    "Nano-based furniture protection",
+    "Safe sanitization and disinfection",
+    "Fabric and leather surface protection",
+    "Wood and marble insulation and protection"
+  ],
+
+  "commitment_title": "Our Commitment",
+  "commitment_list": [
+    "Highest quality standards",
+    "Transparency in service",
+    "Precision in execution",
+    "After-service follow-up",
+    "Customer satisfaction above all"
+  ],
+
+  "tagline": "Nano Shark — We protect your furniture, to protect your comfort."
+
+
+,
+  "why_title1": "Why Choose Nano Shark?",
+
+"why_warranty_title": "Guaranteed Warranty",
+"why_warranty_desc": "Peace of mind with a long-term warranty covering protection quality and performance efficiency.",
+
+"why_experience_title": "Professional Experience Across the Gulf",
+"why_experience_desc": "A specialized team with over 3 years of experience covering the UAE, Qatar, Saudi Arabia, and Oman.",
+
+"why_cleaning_title": "Free Cleaning & Sanitization Before Nano",
+"why_cleaning_desc": "Free dry cleaning and furniture sanitization before applying nano coating to ensure maximum protection and optimal results.",
+
+"why_german_title": "Organic & Safe German Materials",
+"why_german_desc": "High-quality German nano technology, safe for children and pets, without changing the fabric's color or texture."
+,
+"why_support_title": "24/7 Continuous Support",
+"why_support_desc": "Customer service available around the clock to answer all inquiries.",
+
+"why_followup_title": "Post-Service Follow-Up",
+"why_followup_desc": "A free visit after 6 months to monitor protection performance and ensure outstanding results continue."
+
+
+}
+
+
+
+,
+
+"ar": {
+  "dir": "rtl",
+  "brand_name": "Nano Shark",
+
+  "nav_home": "الرئيسية",
+  "nav_about": "من نحن",
+
+  "hero_title": "نحمي أثاثك بتقنية النانو…",
+  "hero_subtitle": "ليظل نظيفًا، آمنًا، وكأنه جديد لسنوات.",
+  "hero_desc": "حماية ذكية تدوم طويلًا دون أي تغيير في الشكل أو الملمس.",
+
+
+
+    "numbers_title" : "أرقام نجاحنا 💎",
+    
+  
+
+  "clients_label":"العملاء السعداء",
+    
+  
+  "countries_label":"الدول التي خدمناها",
+    
+
+  "furniture_label": "قطع الأثاث المحمية بنجاح",
+    
+  
+  "experience_label": "سنوات الخبرة في النانو كوتينج",
+   
+
+  "satisfaction_label":"معدل رضا العملاء",
+    
+  
+  "services_title": "خدمات Nano Shark",
+  "services_intro": "حماية الكنب، الكراسي، المراتب ضد السوائل والبقع",
+
+  "service1_title": "التنظيف العميق والتجفيف الاحترافي",
+  "service1_desc": "✔ حماية السجاد والستائر بطبقة نانو كوتينج متطورة ✔ يحافظ على لون وجودة الأقمشة دون تغيير اللون أو الملمس ✔ حماية غير مرئية، عضوية وآمنة 100% للأطفال والحيوانات الأليفة",
+
+  "service2_title": "التنظيف العميق والتعقيم",
+  "service2_desc": "✔ تنظيف عميق للكنب، الكراسي، المراتب، السجاد، والستائر ✔ إزالة البقع الصعبة والروائح الكريهة ✔ تعقيم كامل بمواد آمنة ومعتمدة ✔ تجفيف سريع بدون أي رطوبة.",
+
+  "service3_title": "عزل وحماية الرخام والخشب",
+  "service3_desc": "✔ عزل أسطح الرخام ضد البقع والتلف ✔ حماية الأرضيات والأسطح الخشبية ✔ لمعان يدوم لفترة أطول ✔ مقاومة عالية للمياه والأوساخ",
+
+  "service4_title": "  نخدم جميع أنحاء الإمارات",
+  "service4_desc": "✔ دبي✔ أبوظبي✔ الشارقة✔ عجمان✔ العين✔ الفجيرة✔ رأس الخيمة",
+
+
+
+  "faq_title": "الأسئلة الشائعة (FAQ)",
+  "whatsapp_text": "استفسر الآن",
+  "faq_q1": "ما هو النانو كوتينج؟",
+  "faq_a1": "طبقة حماية غير مرئية تمنع امتصاص السوائل والبقع وتجعل التنظيف أسهل.",
+
+  "faq_q2": "هل يغيّر لون أو ملمس الأثاث؟",
+  "faq_a2": "لا، الطبقة شفافة 100% ولا تؤثر على اللون أو النعومة.",
+
+  "faq_q3": "كم تدوم الحماية؟",
+  "faq_a3": "تدوم حتى 3 سنوات أو أكثر حسب الاستخدام.",
+
+  "faq_q4": "هل آمن للأطفال والحيوانات الأليفة؟",
+  "faq_a4": "نعم، المواد عضوية وآمنة وخالية من أي مواد ضارة.",
+
+  "faq_q5": "ما الفرق بين التنظيف العادي والنانو كوتينج؟",
+  "faq_a5": "التنظيف يزيل الاتساخ فقط، بينما النانو يمنع الاتساخ من الأساس.",
+
+  "faq_q6": "هل مناسب لجميع أنواع الأثاث؟",
+  "faq_a6": "نعم، مناسب لجميع الأسطح القماشية والجلدية.",
+
+  "faq_q7": "هل يمنع البقع تمامًا؟",
+  "faq_a7": "يقلل الامتصاص بدرجة كبيرة جدًا ويجعل الإزالة سهلة.",
+
+  "faq_q8": "هل تستغرق الخدمة وقتًا طويلًا؟",
+  "faq_a8": "لا، التنفيذ سريع وغالبًا يُستخدم الأثاث في نفس اليوم.",
+
+  "faq_q9": "هل توجد روائح بعد التطبيق؟",
+  "faq_a9": "لا توجد روائح نفاذة والمادة صديقة للبيئة.",
+
+  "faq_q10": "هل الخدمة للمنازل والشركات؟",
+  "faq_a10": "نعم، نخدم المنازل، المكاتب، الفنادق، الكافيهات، والمطاعم.",
+
+  "faq_q11": "ما مدة الضمان؟",
+  "faq_a11": "ضمان جودة لمدة عام ونصف مع حماية حتى 3 سنوات أو أكثر.",
+
+  "footer_contact": "تواصل معنا الآن واحصل على حماية تدوم"
+
+  ,
+    "about_title": "من نحن",
+  "about_intro": "في Nano Shark نؤمن أن الأثاث ليس مجرد قطع تُستخدم يوميًا، بل استثمار في الراحة، الجمال، ونمط الحياة. من هذا الإيمان انطلقت Nano Shark لتكون واحدة من الشركات الرائدة في مجال Nano Coating في دول الخليج العربي، مقدّمين حلولًا احترافية لحماية الأثاث والممتلكات باستخدام أحدث تقنيات النانو الألمانية المعتمدة عالميًا.",
+  
+  "vision_title": "رؤيتنا",
+  "vision_text": "أن نكون الخيار الأول في الخليج العربي لحماية الأثاث بتقنيات ذكية وآمنة، وأن نغيّر مفهوم العناية بالأثاث من التنظيف المؤقت إلى الحماية طويلة الأمد.",
+
+  "mission_title": "رسالتنا",
+  "mission_text": "نوفّر لعملائنا حلول نانو متقدمة تحافظ على أثاثهم نظيفًا، محميًا، ويدوم لسنوات، دون التأثير على اللون أو الملمس، وباستخدام مواد آمنة للأطفال، العائلة، والحيوانات الأليفة.",
+
+  "why_title": "لماذا Nano Shark؟",
+  "why_list": [
+    "نستخدم تقنيات Nano Coating ألمانية عالية الجودة",
+    "نطبّق طبقات حماية غير مرئية 100%",
+    "نحافظ على اللون، النعومة، والشكل الأصلي للأثاث",
+    "نقدّم حماية تدوم حتى 3 سنوات أو أكثر",
+    "نعمل بمواد آمنة وصديقة للبيئة",
+    "نوفر ضمان جودة وزيارات متابعة"
+  ],
+
+  "services_title2": "ماذا نقدّم؟",
+
+  "services_list": [
+    "التنظيف العميق والتجفيف الاحترافي",
+    "حماية الأثاث بتقنية النانو",
+    "التعقيم والتطهير الآمن",
+    "حماية الأسطح القماشية والجلدية",
+    "عزل وحماية الخشب والرخام"
+  ],
+
+  "commitment_title": "التزامنا",
+  "commitment_list": [
+    "أعلى معايير الجودة",
+    "الشفافية في الخدمة",
+    "الدقة في التنفيذ",
+    "المتابعة بعد الخدمة",
+    "رضا العميل قبل أي شيء"
+  ],
+
+  "tagline": "Nano Shark — نحمي أثاثك… لنحافظ على راحتك."
+,
+"why_title1": "لماذا تختار Nano Shark؟",
+
+"why_warranty_title": "ضمان مضمون",
+"why_warranty_desc": "راحة البال مع ضمان طويل يغطي جودة الحماية وكفاءة الأداء.",
+
+"why_experience_title": "خبرة احترافية في جميع أنحاء الخليج",
+"why_experience_desc": "فريق متخصص بخبرة أكثر من 3 سنوات ويغطي الإمارات، قطر، السعودية، وعمان.",
+
+"why_cleaning_title": "تنظيف وتعقيم مجاني قبل النانو",
+"why_cleaning_desc": "تنظيف جاف وتعقيم الأثاث مجاني قبل تطبيق النانو كوتينج لضمان أفضل النتائج وحماية مطلقة.",
+
+"why_german_title": "مواد ألمانية عضوية وآمنة",
+"why_german_desc": "تقنية نانو ألمانية عالية الجودة، آمنة للأطفال والحيوانات الأليفة، ولا تغيّر لون أو ملمس القماش."
+
+   ,
+
+"why_support_title": "دعم متواصل 24/7",
+"why_support_desc": "خدمة عملاء متاحة على مدار الساعة للرد على جميع الاستفسارات.",
+
+"why_followup_title": "متابعة بعد التنفيذ",
+"why_followup_desc": "زيارة مجانية بعد 6 أشهر لمراقبة كفاءة الحماية والتأكد من استمرار النتائج المذهلة."
+}
+}
+
+
+
+
